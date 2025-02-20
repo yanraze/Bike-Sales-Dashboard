@@ -13,8 +13,11 @@ Developed an interactive Power BI dashboard to analyze bike sales data, providin
 Data Source: [Sales Data ](https://www.kaggle.com/datasets/jehanzaibbhatti/sales-data)
 
 ## POWERBI DASHBOARD
+### Sales Page
 ![Sales](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Sales.png)
+### Customer Page
 ![Customer](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Customer.png)
+### Product Page
 ![Product](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Product.png)
 
 ## INSIGHTS
