@@ -13,12 +13,12 @@ Developed an interactive Power BI dashboard to analyze bike sales data, providin
 Data Source: [Sales Data ](https://www.kaggle.com/datasets/jehanzaibbhatti/sales-data)
 
 ## POWERBI DASHBOARD
-### Sales Page
-![Sales](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Sales.png)
+### Revenue Page
+![Revenue](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Revenue%20Analysis.png)
 ### Customer Page
-![Customer](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Customer.png)
+![Customer](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Customer%20Analysis.png)
 ### Product Page
-![Product](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Product.png)
+![Product](https://github.com/yanraze/Bike-Sales-Dashboard/blob/main/Product%20Analysis.png)
 
 ## INSIGHTS
 
@@ -50,8 +50,8 @@ Data Source: [Sales Data ](https://www.kaggle.com/datasets/jehanzaibbhatti/sales
 
 - Growth and Decline Trends:
   - Customer count saw significant growth in 2013-2015, peaking in 2015 (29.4K customers).
-  - Despite high revenue, a decline in YoY revenue growth in 2016 (-11.54%) suggests market saturation or lower demand.
-  - Accessories and bike-related components (Tires, Tubes, Helmets) are driving consistent sales.
+  - Despite high revenue, a decline in YoY revenue growth 2016 (-11.54%) suggests market saturation or lower demand.
+  - Accessories and bike-related components (Tires, Tubes, Helmets) drive consistent sales.
 
 ## RECOMENDATIONS
 
