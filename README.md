@@ -40,7 +40,7 @@ Data Source: [Sales Data ](https://www.kaggle.com/datasets/jehanzaibbhatti/sales
   - Top Age Group: Adults (35-64) – 672K orders
   - Top Gender Segment: Male Customers (700K orders, 48.41% of total customers)
   - Top country by customers: United States (39.21K customers)
-  - Popular products by gender:
+  - Popular Products by gender:
     - Male: Patch Kit/8 Patches, Water Bottle – 30 oz.
     - Female: Water Bottle – 30 oz., Patch Kit/8 Patches
 
@@ -50,12 +50,12 @@ Data Source: [Sales Data ](https://www.kaggle.com/datasets/jehanzaibbhatti/sales
 
 - Growth and Decline Trends:
   - Customer count saw significant growth in 2013-2015, peaking in 2015 (29.4K customers).
-  - Despite high revenue, a decline in YoY revenue growth 2016 (-11.54%) suggests market saturation or lower demand.
+  - Despite high revenue, a decline in YoY revenue growth in 2016 (-11.54%) suggests market saturation or lower demand.
   - Accessories and bike-related components (Tires, Tubes, Helmets) drive consistent sales.
 
-## RECOMENDATIONS
+## RECOMMENDATIONS
 
 - Increase inventory for high-demand products like Water Bottles, Patch Kits, and Road/Mountain bikes.
 - Focus on marketing efforts in high-revenue regions like the U.S. and Australia.
-- Target adults (35-64) more aggressively, as they form the largest customer base.
+- Target adults (35-64) more aggressively, as they form the most extensive customer base.
 - Investigate the 2016 revenue drop to identify external factors affecting sales.
